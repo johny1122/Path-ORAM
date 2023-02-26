@@ -16,7 +16,7 @@ To run the program you can open a terminal and run the following command:
     
       pytho3 Path_ORAM.py
 The program will ask for a desired DB size and then display a menu of actions:
-- shop (1)
+- store (1)
 - retrieve (2)
 - delete (3)
 - Exit (9)
